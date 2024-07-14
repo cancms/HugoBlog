@@ -14,7 +14,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  homeLink = "https://icjj.github.io/icer/"
+  homeLink = "https://cancms.github.io/HugoBlog/"
   header_image = "img/home-bg-jeep.jpg"
   SEOTitle = "赵化冰的博客 | Zhaohuabing Blog"
   description = "赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。"
@@ -109,13 +109,13 @@ home = ["HTML", "RSS", "Algolia"]
   
   [[params.addtional_menus]]
   title =  "ARCHIVE"
-  href =  "/archive/"
+  href =  "/HugoBlog/archive"
   [[params.addtional_menus]]
   title =  "NOTES"
-  href =  "/notes/"
+  href =  "/HugoBlog/notes"
   [[params.addtional_menus]]
   title =  "ABOUT"
-  href =  "/about/"
+  href =  "/HugoBlog/about"
 
 [outputFormats.Algolia]
 baseName = "algolia"
